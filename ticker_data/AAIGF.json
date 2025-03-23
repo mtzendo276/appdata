@@ -1,0 +1,9 @@
+{
+    "ticker": "AAIGF",
+    "name": "AIA GROUP LTD ORD",
+    "market": "otc",
+    "locale": "us",
+    "type": "OS",
+    "active": true,
+    "currency_name": "USD"
+}

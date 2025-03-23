@@ -1,0 +1,11 @@
+{
+    "ticker": "AASP",
+    "name": "GLOBAL ACQUISITIONS CORP",
+    "market": "otc",
+    "locale": "us",
+    "type": "CS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG000K2W621",
+    "share_class_figi": "BBG001S7JJF3"
+}

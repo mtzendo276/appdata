@@ -1,0 +1,25 @@
+{
+    "ticker": "AACG",
+    "name": "ATA Creativity Global American Depositary Shares",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNAS",
+    "type": "ADRC",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0001420529",
+    "composite_figi": "BBG000V2S3P6",
+    "share_class_figi": "BBG001T125S9",
+    "market_cap": 30841217.658726,
+    "description": "ATA Creativity Global is an international educational services company focused on providing quality learning experiences that cultivate and enhance students' creativity. The operating segments are Overseas art study services, Other educational services and K-12 education assessment and other services. Majority of its revenue comes from Overseas art study services.",
+    "ticker_root": "AACG",
+    "homepage_url": "https://ir.atai.net.cn",
+    "total_employees": 581,
+    "list_date": "2008-01-29",
+    "branding": {
+        "logo_url": "https://api.polygon.io/v1/reference/company-branding/aXIuYXRhaS5uZXQuY24/images/2025-03-20_logo.svg"
+    },
+    "share_class_shares_outstanding": 63930000,
+    "weighted_shares_outstanding": 31473874,
+    "round_lot": 100
+}

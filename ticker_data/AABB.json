@@ -1,0 +1,11 @@
+{
+    "ticker": "AABB",
+    "name": "ASIA BROADBAND INC",
+    "market": "otc",
+    "locale": "us",
+    "type": "CS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG000CWNRN5",
+    "share_class_figi": "BBG001SGRBK5"
+}

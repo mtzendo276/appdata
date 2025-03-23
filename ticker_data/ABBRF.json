@@ -1,0 +1,11 @@
+{
+    "ticker": "ABBRF",
+    "name": "ABRASILVER RESOURCE CORP",
+    "market": "otc",
+    "locale": "us",
+    "type": "OS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG00GBV2HN8",
+    "share_class_figi": "BBG001S60949"
+}

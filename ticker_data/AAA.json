@@ -1,0 +1,16 @@
+{
+    "ticker": "AAA",
+    "name": "Alternative Access First Priority CLO Bond ETF",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "ARCX",
+    "type": "ETF",
+    "active": true,
+    "currency_name": "usd",
+    "composite_figi": "BBG01B0JRCS6",
+    "share_class_figi": "BBG01B0JRCT5",
+    "ticker_root": "AAA",
+    "list_date": "2020-09-09",
+    "share_class_shares_outstanding": 1900000,
+    "round_lot": 100
+}

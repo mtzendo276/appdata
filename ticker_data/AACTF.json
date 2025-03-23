@@ -1,0 +1,11 @@
+{
+    "ticker": "AACTF",
+    "name": "AURORA SOLAR TECHNOLOGIES",
+    "market": "otc",
+    "locale": "us",
+    "type": "OS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG005BTJ9X6",
+    "share_class_figi": "BBG001STZM33"
+}

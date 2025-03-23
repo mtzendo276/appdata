@@ -1,0 +1,11 @@
+{
+    "ticker": "AACS",
+    "name": "AMER COMMERCE SOLTNS INC",
+    "market": "otc",
+    "locale": "us",
+    "type": "CS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG000JVQ2Q9",
+    "share_class_figi": "BBG001SBV1Z7"
+}

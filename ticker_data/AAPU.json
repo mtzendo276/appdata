@@ -1,0 +1,16 @@
+{
+    "ticker": "AAPU",
+    "name": "Direxion Shares ETF Trust Direxion Daily AAPL Bull 2X Shares",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNAS",
+    "type": "ETS",
+    "active": true,
+    "currency_name": "usd",
+    "composite_figi": "BBG0193YBZ92",
+    "share_class_figi": "BBG0193YC043",
+    "ticker_root": "AAPU",
+    "list_date": "2022-08-09",
+    "share_class_shares_outstanding": 2630000,
+    "round_lot": 100
+}

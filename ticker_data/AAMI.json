@@ -1,0 +1,32 @@
+{
+    "ticker": "AAMI",
+    "name": "Acadian Asset Management Inc.",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNYS",
+    "type": "CS",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0001748824",
+    "composite_figi": "BBG00P2HLNY3",
+    "share_class_figi": "BBG00P2HLNZ2",
+    "market_cap": 957166368.84,
+    "phone_number": "(617) 369-7300",
+    "address": {
+        "address1": "200 STATE STREET",
+        "address2": "13TH FLOOR",
+        "city": "BOSTON",
+        "state": "MA",
+        "postal_code": "02109"
+    },
+    "description": "Acadian Asset Management Inc is a holding company that operates a systematic investment management business through its subsidiary, that offers institutional investors across the globe access to a diversified array of systematic investment strategies designed to meet a range of risk and return objectives.",
+    "sic_code": "6282",
+    "sic_description": "INVESTMENT ADVICE",
+    "ticker_root": "AAMI",
+    "homepage_url": "https://www.acadian-inc.com",
+    "total_employees": 383,
+    "list_date": "2014-10-09",
+    "share_class_shares_outstanding": 37490000,
+    "weighted_shares_outstanding": 37491828,
+    "round_lot": 100
+}

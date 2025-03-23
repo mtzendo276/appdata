@@ -1,0 +1,11 @@
+{
+    "ticker": "AAGFF",
+    "name": "AFTERMATH SILVER LTD ORD",
+    "market": "otc",
+    "locale": "us",
+    "type": "OS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG001ZZWS68",
+    "share_class_figi": "BBG001V0ZJL9"
+}

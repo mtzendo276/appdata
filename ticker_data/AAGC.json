@@ -1,0 +1,11 @@
+{
+    "ticker": "AAGC",
+    "name": "ALL AMERICAN GOLD CORP",
+    "market": "otc",
+    "locale": "us",
+    "type": "CS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG000R4MM71",
+    "share_class_figi": "BBG001T948W9"
+}

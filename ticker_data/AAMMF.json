@@ -1,0 +1,11 @@
+{
+    "ticker": "AAMMF",
+    "name": "ALMADEX MINERALS LTD",
+    "market": "otc",
+    "locale": "us",
+    "type": "OS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG00L1LR0B3",
+    "share_class_figi": "BBG00K66WBV1"
+}

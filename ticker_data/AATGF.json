@@ -1,0 +1,11 @@
+{
+    "ticker": "AATGF",
+    "name": "ATI AIRTEST TECHS INC",
+    "market": "otc",
+    "locale": "us",
+    "type": "OS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG000DPPB70",
+    "share_class_figi": "BBG001S77XD7"
+}

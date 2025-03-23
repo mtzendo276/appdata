@@ -1,0 +1,17 @@
+{
+    "ticker": "AADR",
+    "name": "AdvisorShares Dorsey Wright ADR ETF",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNAS",
+    "type": "ETF",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0001408970",
+    "composite_figi": "BBG000BDYRW6",
+    "share_class_figi": "BBG001T9B1Y4",
+    "ticker_root": "AADR",
+    "list_date": "2010-07-21",
+    "share_class_shares_outstanding": 390000,
+    "round_lot": 100
+}

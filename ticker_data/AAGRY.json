@@ -1,0 +1,11 @@
+{
+    "ticker": "AAGRY",
+    "name": "ASTRA AGRO LESTR UNSP/ADR",
+    "market": "otc",
+    "locale": "us",
+    "type": "ADRC",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG000KF9H79",
+    "share_class_figi": "BBG001T8KP46"
+}

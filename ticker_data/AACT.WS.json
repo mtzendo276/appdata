@@ -1,0 +1,24 @@
+{
+    "ticker": "AACT.WS",
+    "name": "Ares Acquisition Corporation II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNYS",
+    "type": "WARRANT",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0001853138",
+    "phone_number": "310-201-4100",
+    "address": {
+        "address1": "C/O ARES MANAGEMENT LLC",
+        "address2": "245 PARK AVENUE, 42ND FLOOR",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "10167"
+    },
+    "sic_code": "6770",
+    "sic_description": "BLANK CHECKS",
+    "ticker_root": "AACT",
+    "ticker_suffix": "WS",
+    "round_lot": 100
+}

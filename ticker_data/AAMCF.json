@@ -1,0 +1,11 @@
+{
+    "ticker": "AAMCF",
+    "name": "ALTISOURCE ASSET MGMT",
+    "market": "otc",
+    "locale": "us",
+    "type": "CS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG003PNL136",
+    "share_class_figi": "BBG003PNL145"
+}
