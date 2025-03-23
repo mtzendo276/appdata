@@ -1,0 +1,9 @@
+{
+    "ticker": "AANNF",
+    "name": "AROUNDTOWN SA ORD",
+    "market": "otc",
+    "locale": "us",
+    "type": "OS",
+    "active": true,
+    "currency_name": "USD"
+}

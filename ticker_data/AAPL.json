@@ -10,7 +10,7 @@
     "cik": "0000320193",
     "composite_figi": "BBG000B9XRY4",
     "share_class_figi": "BBG001S5N8V8",
-    "market_cap": 3580182677550,
+    "market_cap": 3278867873710.0,
     "phone_number": "(408) 996-1010",
     "address": {
         "address1": "ONE APPLE PARK WAY",
@@ -26,10 +26,10 @@
     "total_employees": 164000,
     "list_date": "1980-12-12",
     "branding": {
-        "logo_url": "https://api.polygon.io/v1/reference/company-branding/YXBwbGUuY29t/images/2024-10-01_logo.svg",
-        "icon_url": "https://api.polygon.io/v1/reference/company-branding/YXBwbGUuY29t/images/2024-10-01_icon.png"
+        "logo_url": "https://api.polygon.io/v1/reference/company-branding/YXBwbGUuY29t/images/2025-03-20_logo.svg",
+        "icon_url": "https://api.polygon.io/v1/reference/company-branding/YXBwbGUuY29t/images/2025-03-20_icon.png"
     },
-    "share_class_shares_outstanding": 15115820000,
-    "weighted_shares_outstanding": 15115823000,
+    "share_class_shares_outstanding": 15022070000,
+    "weighted_shares_outstanding": 15022073000,
     "round_lot": 100
 }

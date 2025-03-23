@@ -1,0 +1,35 @@
+{
+    "ticker": "AB",
+    "name": "AllianceBernstein Holding, L.P.",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNYS",
+    "type": "CS",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0000825313",
+    "composite_figi": "BBG000B9WM03",
+    "share_class_figi": "BBG001S5N9S0",
+    "market_cap": 4203468411.8700004,
+    "phone_number": "(615) 622-0000",
+    "address": {
+        "address1": "501 COMMERCE STREET",
+        "city": "NASHVILLE",
+        "state": "TN",
+        "postal_code": "37203"
+    },
+    "description": "AllianceBernstein provides investment management services to institutional (42% of assets under management), retail (41%), and private (17%) clients through products that includes mutual funds, hedge funds, and separately managed accounts. At the end of October 2024, AB had $793 billion in managed assets, composed primarily of fixed-income (37% of AUM) and equity (42%) strategies, with other investments (made up of asset allocation services and certain other alternative investments) accounting for the remainder.",
+    "sic_code": "6282",
+    "sic_description": "INVESTMENT ADVICE",
+    "ticker_root": "AB",
+    "homepage_url": "https://www.alliancebernstein.com",
+    "total_employees": 4341,
+    "list_date": "1992-03-09",
+    "branding": {
+        "logo_url": "https://api.polygon.io/v1/reference/company-branding/YWxsaWFuY2ViZXJuc3RlaW4uY29t/images/2025-03-20_logo.svg",
+        "icon_url": "https://api.polygon.io/v1/reference/company-branding/YWxsaWFuY2ViZXJuc3RlaW4uY29t/images/2025-03-20_icon.jpeg"
+    },
+    "share_class_shares_outstanding": 110530000,
+    "weighted_shares_outstanding": 110530329,
+    "round_lot": 100
+}

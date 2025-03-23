@@ -1,0 +1,32 @@
+{
+    "ticker": "AACT",
+    "name": "Ares Acquisition Corporation II",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNYS",
+    "type": "CS",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0001853138",
+    "market_cap": 698750000.0,
+    "phone_number": "310-201-4100",
+    "address": {
+        "address1": "C/O ARES MANAGEMENT LLC",
+        "address2": "245 PARK AVENUE, 42ND FLOOR",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "10167"
+    },
+    "description": "Ares Acquisition Corp II is a blank check company.",
+    "sic_code": "6770",
+    "sic_description": "BLANK CHECKS",
+    "ticker_root": "AACT",
+    "homepage_url": "https://www.aresacquisitioncorporationii.com",
+    "list_date": "2023-06-12",
+    "branding": {
+        "logo_url": "https://api.polygon.io/v1/reference/company-branding/YXJlc2FjcXVpc2l0aW9uY29ycG9yYXRpb25paS5jb20/images/2025-03-20_logo.png"
+    },
+    "share_class_shares_outstanding": 50000000,
+    "weighted_shares_outstanding": 62500000,
+    "round_lot": 100
+}

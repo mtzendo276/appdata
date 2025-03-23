@@ -1,0 +1,17 @@
+{
+    "ticker": "AAPB",
+    "name": "GraniteShares ETF Trust GraniteShares 2x Long AAPL Daily ETF",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNAS",
+    "type": "ETS",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0001689873",
+    "composite_figi": "BBG0193F21N2",
+    "share_class_figi": "BBG0193F22H7",
+    "ticker_root": "AAPB",
+    "list_date": "2022-08-09",
+    "share_class_shares_outstanding": 580000,
+    "round_lot": 100
+}

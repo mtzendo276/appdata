@@ -1,0 +1,11 @@
+{
+    "ticker": "AATC",
+    "name": "AUTOSCOPE TECHS CORP",
+    "market": "otc",
+    "locale": "us",
+    "type": "CS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG011MC2100",
+    "share_class_figi": "BBG011MC2119"
+}

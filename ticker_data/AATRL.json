@@ -1,0 +1,9 @@
+{
+    "ticker": "AATRL",
+    "name": "AMG CAP TR II 5.15% CONV",
+    "market": "otc",
+    "locale": "us",
+    "type": "PFD",
+    "active": true,
+    "currency_name": "USD"
+}

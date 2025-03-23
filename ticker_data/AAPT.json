@@ -1,0 +1,11 @@
+{
+    "ticker": "AAPT",
+    "name": "ALL AMERICAN PET CO INC",
+    "market": "otc",
+    "locale": "us",
+    "type": "CS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG000R7ZH35",
+    "share_class_figi": "BBG001SM7HC0"
+}

@@ -1,0 +1,35 @@
+{
+    "ticker": "ABCL",
+    "name": "AbCellera Biologics Inc. Common Shares",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNAS",
+    "type": "CS",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0001703057",
+    "composite_figi": "BBG00LLW2MF2",
+    "share_class_figi": "BBG00LLW2MH0",
+    "market_cap": 727089912.36,
+    "phone_number": "(604) 559-9005",
+    "address": {
+        "address1": "2215 YUKON STREET",
+        "city": "VANCOUVER",
+        "state": "A1",
+        "postal_code": "V5Y 0A1"
+    },
+    "description": "AbCellera Biologics Inc is an antibody discovery and development engine that's specifically designed to address the barriers of conventional discovery, finding the optimal clinical candidate with greater precision and speed, getting to the clinic and patients sooner. With the integrated AbCellera platform, the company's experts search a wide range of diverse antibodies to select the effective and developable leads fast and set partners up for enduring success. The company has extensive experience forging partnerships with emerging biotechs and pharmaceutical companies. AbCellera leverages proprietary hardware, software, and tools along with the latest data science, to operate as strategic partners and help develop optimized solutions faster for any program.",
+    "sic_code": "2834",
+    "sic_description": "PHARMACEUTICAL PREPARATIONS",
+    "ticker_root": "ABCL",
+    "homepage_url": "https://www.abcellera.com",
+    "total_employees": 596,
+    "list_date": "2020-12-11",
+    "branding": {
+        "logo_url": "https://api.polygon.io/v1/reference/company-branding/YWJjZWxsZXJhLmNvbQ/images/2025-03-20_logo.svg",
+        "icon_url": "https://api.polygon.io/v1/reference/company-branding/YWJjZWxsZXJhLmNvbQ/images/2025-03-20_icon.jpeg"
+    },
+    "share_class_shares_outstanding": 297990000,
+    "weighted_shares_outstanding": 297987669,
+    "round_lot": 100
+}

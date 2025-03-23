@@ -1,0 +1,11 @@
+{
+    "ticker": "ABBB",
+    "name": "AUBURN BANCORP INC",
+    "market": "otc",
+    "locale": "us",
+    "type": "CS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG000BMSFK2",
+    "share_class_figi": "BBG001SPRY52"
+}

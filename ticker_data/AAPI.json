@@ -1,0 +1,11 @@
+{
+    "ticker": "AAPI",
+    "name": "APPLE ISPORTS GROUP INC",
+    "market": "otc",
+    "locale": "us",
+    "type": "CS",
+    "active": true,
+    "currency_name": "USD",
+    "composite_figi": "BBG000CQN9X7",
+    "share_class_figi": "BBG001SGHPN2"
+}

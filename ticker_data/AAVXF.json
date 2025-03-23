@@ -1,0 +1,9 @@
+{
+    "ticker": "AAVXF",
+    "name": "ABIVAX SA ORD",
+    "market": "otc",
+    "locale": "us",
+    "type": "OS",
+    "active": true,
+    "currency_name": "USD"
+}

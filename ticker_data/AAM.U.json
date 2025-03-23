@@ -1,0 +1,25 @@
+{
+    "ticker": "AAM.U",
+    "name": "AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNYS",
+    "type": "UNIT",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0002012964",
+    "phone_number": "832-336-8887",
+    "address": {
+        "address1": "21 WATERWAY AVENUE, SUITE 300 #9732",
+        "city": "THE WOODLANDS",
+        "state": "TX",
+        "postal_code": "77380"
+    },
+    "description": "AA Mission Acquisition Corp is a blank check company.",
+    "sic_code": "6770",
+    "sic_description": "BLANK CHECKS",
+    "ticker_root": "AAM",
+    "ticker_suffix": "U",
+    "list_date": "2024-08-01",
+    "round_lot": 100
+}

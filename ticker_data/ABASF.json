@@ -1,0 +1,9 @@
+{
+    "ticker": "ABASF",
+    "name": "ALBA SE",
+    "market": "otc",
+    "locale": "us",
+    "type": "OS",
+    "active": true,
+    "currency_name": "USD"
+}
